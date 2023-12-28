@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngiTom, a Caltech freshman
+- 👋 Hi, I’m Tom Zhang, a Caltech freshman
 - 👀 I’m interested in ML + science
 - 🌱 Ronghao Li is my favorite singer
 - 💞️ I’m looking to collaborate on any interesting/fun project
