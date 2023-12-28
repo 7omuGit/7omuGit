@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EngiTom
-- 👀 I’m interested in machine learning and data visualizations
-- 🌱 I’m currently working on creating ways to teach CNNs. 
+- 👋 Hi, I’m @EngiTom, a Caltech freshman
+- 👀 I’m interested in ML + science
+- 🌱 Ronghao Li is my favorite singer
 - 💞️ I’m looking to collaborate on any interesting/fun project
-- 📫 How to reach me: 7omu#4616 on Discord
-
-Link to intro to machine learning website: http://top3best.us
+- 📫 How to reach me: [txzhang@caltech.edu](mailto:txzhang@caltech.edu)
