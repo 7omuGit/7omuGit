@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Tom Zhang, a Caltech sophomore
+- 👋 Hi, I’m Tom Zhang, a Caltech CS student
 - 👀 I’m interested in ML + science
 - 📫 How to reach me: [txzhang@caltech.edu](mailto:txzhang@caltech.edu)
